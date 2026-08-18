@@ -1,0 +1,6 @@
+first_name,last_name,email,tipo_solicitud,fecha,prioridad,identificador,estado,resultado,error
+Ana,Rodríguez,ana.rodríguez0@example.com,consulta,2024-01-01,baja,SOL-20280000,pendiente,registrado,
+Gabriela,Jiménez,gabriela.jiménez1@example.com,soporte,2024-01-02,alta,SOL-20280001,pendiente,registrado,
+Sofía,Sánchez,sofía.sánchez2@example.com,sugerencia,2024-01-03,alta,SOL-20280002,en_proceso,registrado,
+Ricardo,Ruiz,ricardo.ruiz3@example.com,sugerencia,2024-01-04,media,SOL-20280003,en_proceso,registrado,
+Pedro,Hernández,pedro.hernández4@example.com,sugerencia,2024-01-05,alta,SOL-20280004,en_proceso,registrado,

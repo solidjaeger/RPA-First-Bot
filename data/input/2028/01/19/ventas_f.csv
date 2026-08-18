@@ -1,0 +1,9 @@
+First Name,Last Name,Company Name,Role in Company,Address,Email,Phone Number,tipo_solicitud,fecha,prioridad,identificador,descripcion,estado
+Ana,Rodríguez,TechCorp,Analyst,"Calle 63, Ciudad",ana.rodríguez0@example.com,+1-555-4657,venta,2024-01-01,baja,VEN-20280000,Descripción de la solicitud 1,pendiente
+Gabriela,Jiménez,InnovaSoft,Director,"Calle 109, Ciudad",gabriela.jiménez1@example.com,+1-555-1520,venta,2024-01-02,alta,VEN-20280001,Descripción de la solicitud 2,pendiente
+Sofía,Sánchez,FinServ,Director,"Calle 7, Ciudad",sofía.sánchez2@example.com,+1-555-4257,venta,2024-01-03,alta,VEN-20280002,Descripción de la solicitud 3,en_proceso
+Ricardo,Ruiz,SecuWare,Manager,"Calle 195, Ciudad",ricardo.ruiz3@example.com,+1-555-3615,venta,2024-01-04,media,VEN-20280003,Descripción de la solicitud 4,en_proceso
+Pedro,Hernández,CloudNet,Analyst,"Calle 27, Ciudad",pedro.hernández4@example.com,+1-555-2519,venta,2024-01-05,alta,VEN-20280004,Descripción de la solicitud 5,en_proceso
+Carmen,Rivera,LogiTrans,Analyst,"Calle 12, Ciudad",carmen.rivera5@example.com,+1-555-8527,venta,2024-01-06,media,VEN-20280005,Descripción de la solicitud 6,pendiente
+Gabriela,Jiménez,SecuWare,Director,"Calle 93, Ciudad",gabriela.jiménez6@example.com,+1-555-4150,venta,2024-01-07,alta,VEN-20280006,Descripción de la solicitud 7,completada
+Sofía,Sánchez,SecuWare,Manager,"Calle 60, Ciudad",sofía.sánchez7@example.com,+1-555-2654,venta,2024-01-08,media,VEN-20280007,Descripción de la solicitud 8,en_proceso

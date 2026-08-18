@@ -1,0 +1,5 @@
+first_name,last_name,email,tipo_solicitud,fecha,prioridad,identificador,estado,resultado,error
+Ana,Rodríguez,ana@test.com,consulta,2024-02-01,media,CASO-2028001,pendiente,registrado,
+Ana,Rodríguez,ana@test.com,consulta,2024-02-02,alta,CASO-2028002,pendiente,duplicado,Duplicado: no enviado.
+Luis,Pérez,luis@test.com,soporte,2024-02-03,alta,CASO-2028003,en_proceso,registrado,
+Luis,Pérez,luis@test.com,soporte,2024-02-04,baja,CASO-2028004,en_proceso,duplicado,Duplicado: no enviado.

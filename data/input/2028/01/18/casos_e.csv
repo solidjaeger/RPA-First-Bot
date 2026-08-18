@@ -1,0 +1,8 @@
+First Name,Last Name,Company Name,Role in Company,Address,Email,Phone Number,tipo_solicitud,fecha,prioridad,identificador,descripcion,estado
+Ana,Rodríguez,TechCorp,Analyst,Calle 1,ana@test.com,+1-555-1000,consulta,2024-02-01,media,CASO-2028001,Desc 1,pendiente
+Ana,Rodríguez,TechCorp,Analyst,Calle 1,ana@test.com,+1-555-1000,consulta,2024-02-02,alta,CASO-2028002,Desc 2,pendiente
+Luis,Pérez,FinServ,Manager,Calle 2,luis@test.com,+1-555-2000,soporte,2024-02-03,alta,CASO-2028003,Desc 3,en_proceso
+Luis,Pérez,FinServ,Manager,Calle 2,luis@test.com,+1-555-2000,soporte,2024-02-04,baja,CASO-2028004,Desc 4,en_proceso
+,Gómez,DataSys,Dev,Calle 3,maria@test.com,+1-555-3000,consulta,2024-02-05,media,CASO-2028005,Desc 5,pendiente
+Juan,Martínez,CloudNet,Dev,Calle 4,correo-invalido,+1-555-4000,reclamo,2024-02-06,alta,CASO-2028006,Desc 6,pendiente
+Sofía,Sánchez,MediCare,Analyst,Calle 5,sofia@test.com,+1-555-5000,sugerencia,no-es-fecha,media,CASO-2028007,Desc 7,pendiente

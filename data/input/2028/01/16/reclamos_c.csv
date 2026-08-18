@@ -1,0 +1,4 @@
+First Name,Last Name,Company Name,Role in Company,Address,Email,Phone Number,tipo_solicitud,fecha,prioridad,identificador,descripcion,estado
+Ana,Rodríguez,TechCorp,Analyst,"Calle 63, Ciudad",ana.rodríguez0@example.com,+1-555-4657,reclamo,2024-01-01,baja,REC-20280000,Descripción de la solicitud 1,pendiente
+Gabriela,Jiménez,InnovaSoft,Director,"Calle 109, Ciudad",gabriela.jiménez1@example.com,+1-555-1520,reclamo,2024-01-02,alta,REC-20280001,Descripción de la solicitud 2,pendiente
+Sofía,Sánchez,FinServ,Director,"Calle 7, Ciudad",sofía.sánchez2@example.com,+1-555-4257,reclamo,2024-01-03,alta,REC-20280002,Descripción de la solicitud 3,en_proceso
